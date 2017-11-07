@@ -1,6 +1,6 @@
 # Introduction to TEI Projects
 
-Sample project space for the "Introduction to TEI" workshop, November 11, 2017 at TEI2017 in Victoria, BC, Canada.
+Sample project space for the "[Introduction to TEI Projects](http://hcmc.uvic.ca/tei2017/abstracts/t_142_jenstadtakeda_intrototeiprojects.html)" workshop, November 11, 2017 at [TEI2017 in Victoria, BC, Canada](http://hcmc.uvic.ca/tei2017/index.php).
 
 Instructors: Janelle Jenstad and Joey Takeda
 
