@@ -24,7 +24,6 @@
             <moduleRef key="tei"/>
             <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc"/>
             <moduleRef key="textstructure" include="TEI text body div front back"/>
-            <moduleRef key="drama" include="stage tech speech sp"/>
          </schemaSpec>
       </body>
    </text>

@@ -1,43 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/tei/tei_bare.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../schema/tei/tei_bare.rng" type="application/xml"
+<?xml-model href="../schema/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/tei_simplePrint.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="poe_bare">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="poe_simplePrint">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Annabelle Lee</title>
+                <title>Annabel Lee</title>
                 <author>Edgar Allen Poe</author>
             </titleStmt>
             <publicationStmt>
                 <p>Published as an example text for TEI 2017 conference.</p>
             </publicationStmt>
             <sourceDesc>
-                <p>Taken from:
-                    https://quod.lib.umich.edu/m/moajrnl/acf2679.0015.011/701:16?page=root;rgn=full+text;size=100;view=image</p>
+                <p>Taken from: https://quod.lib.umich.edu/m/moajrnl/acf2679.0015.011/701:16?page=root;rgn=full+text;size=100;view=image</p>
                 
             </sourceDesc>
             
         </fileDesc>
         <encodingDesc>
             <samplingDecl>
-                <p>This text is an excerpt from page 097.. This encoding does not reflect the entirety
+                <p>This text is an excerpt from page 097. This encoding does not reflect the entirety
                     of the book or the page.</p>
             </samplingDecl>
         </encodingDesc>
     </teiHeader>
     <text>
         <body>
-            <head>Annabell Lee</head>
+            <head>Annabel Lee</head>
             
             <lg>
                 <l>It was many and many a year ago,</l>
                 <l>In a kingdom by the sea,</l>
                 <l>That a maiden there lived whom you may know</l>
-                <l>By the name of Annabel Lee;</l>
+                <l>By the name of Annabel Lee;—</l>
                 <l>And this maiden she lived with no other thought</l>
                 <l>Than to love and be loved by me.</l>
-               
+            
             </lg>
             
             
