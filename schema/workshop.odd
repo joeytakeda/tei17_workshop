@@ -20,10 +20,12 @@
    <text>
       <body>
          <schemaSpec ident="workshop">
+            
             <moduleRef key="core" include="p list item label head author title"/>
             <moduleRef key="tei"/>
             <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc"/>
             <moduleRef key="textstructure" include="TEI text body div front back"/>
+            <!--Add modules to include here-->
          </schemaSpec>
       </body>
    </text>
